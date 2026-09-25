@@ -1,0 +1,25 @@
+Indian Contract Act, 1872
+
+Section 23 - What considerations and objects are lawful, and what not:
+The consideration or object of an agreement is lawful, unless:
+- it is forbidden by law; or
+- is of such a nature that, if permitted, it would defeat the provisions of any law; or
+- is fraudulent; or
+- involves or implies injury to the person or property of another; or
+- the Court regards it as immoral, or opposed to public policy.
+Every agreement of which the object or consideration is unlawful is void.
+
+Section 27 - Agreement in restraint of trade void:
+Every agreement by which any one is restrained from exercising a lawful profession, trade or business of any kind, is to that extent void.
+
+Section 28 - Agreements in restraint of legal proceedings void:
+Every agreement, by which any party thereto is restricted absolutely from enforcing his rights under or in respect of any contract, by the usual legal proceedings in the ordinary tribunals, or which limits the time within which he may thus enforce his rights, is void to that extent.
+
+Section 73 - Compensation for loss or damage caused by breach of contract:
+When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby.
+
+Section 124 - Contract of indemnity defined:
+A contract by which one party promises to save the other from loss caused to him by the conduct of the promisor himself, or by the conduct of any other person, is called a contract of indemnity.
+
+Section 126 - Contract of guarantee defined:
+A contract of guarantee is a contract to perform the promise, or discharge the liability, of a third person in case of his default.
